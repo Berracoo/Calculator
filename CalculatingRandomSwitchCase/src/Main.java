@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //Applying the scanner class to get input from user
-       Scanner input = new Scanner(System.in);
-       System.out.print("Please pick the first number : ");
-       // choosing the number
-       int firstNum = input.nextInt();
+        Scanner input = new Scanner(System.in);
+        System.out.print("Please pick the first number : ");
+        // choosing the number
+        int firstNum = input.nextInt();
         System.out.println();
         System.out.print("Please pick the second number : ");
         int secondNum = input.nextInt();
@@ -47,7 +47,5 @@ public class Main {
             default:
 
         }
-
-
     }
 }

@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //Applying the scanner class to get input from user
-       Scanner input = new Scanner(System.in);
-       System.out.print("Please pick the first number : ");
-       // choosing the number
-       int firstNum = input.nextInt();
+        Scanner input = new Scanner(System.in);
+        System.out.print("Please pick the first number : ");
+        // choosing the number
+        int firstNum = input.nextInt();
         System.out.println();
         System.out.print("Please pick the second number : ");
         int secondNum = input.nextInt();
@@ -31,23 +31,11 @@ public class Main {
         // by index
         Random randomGenerator = new Random();
         int randomInt = randomGenerator.nextInt(len);
-        switch(randomInt){
-            case 0 :
-                System.out.println("The summation is : " + summation);
-                break;
-            case 1 :
-                System.out.println("The deduction is : " + deduction);
-                break;
-            case 2 :
-                System.out.println("The division is : " + division);
-                break;
-            case 3 :
-                System.out.println("The multiplication is : " + multiplication);
-                break;
-            default:
-
-        }
-
+       int lastProcess = transaction.get(randomInt);
+        System.out.println(lastProcess);
+        //this line is to randomly apply the transactions
+        //it returns the result directly without telling what
+        //transaction it applied.
 
     }
 }

@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b20b15d-cd80-4fc6-8ab1-c22cbf98acbc" name="Changes" comment="" />
+    <list default="true" id="8b20b15d-cd80-4fc6-8ab1-c22cbf98acbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CalculatingRandomSwitchCase/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculationWithSwitchCase/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomCalculator2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomCalculatorIfelse/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MNYUcXhHSrVuUZJu0kZLXvRUeB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +27,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Course Tutorial and Practice\Calculator" />
+      <recent name="C:\Course Tutorial and Practice\Calculator\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

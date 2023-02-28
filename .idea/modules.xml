@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculatingRandomSwitchCase/CalculatingRandomSwitchCase.iml" filepath="$PROJECT_DIR$/CalculatingRandomSwitchCase/CalculatingRandomSwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculationWithSwitchCase/CalculationWithSwitchCase.iml" filepath="$PROJECT_DIR$/CalculationWithSwitchCase/CalculationWithSwitchCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator.iml" filepath="$PROJECT_DIR$/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomCalculator2/RandomCalculator2.iml" filepath="$PROJECT_DIR$/RandomCalculator2/RandomCalculator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomCalculatorIfelse/RandomCalculatorIfelse.iml" filepath="$PROJECT_DIR$/RandomCalculatorIfelse/RandomCalculatorIfelse.iml" />
     </modules>
   </component>
 </project>
