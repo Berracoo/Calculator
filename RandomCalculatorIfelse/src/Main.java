@@ -25,7 +25,11 @@ public class Main {
             System.out.println("Multiplication result : " + (int) (numberOne * numberTwo));
         }
         if (randomNumber == 3) {
+            if(numberTwo !=0){
             System.out.println("Division result : " + (int) (numberOne / numberTwo));
+            }else{
+                System.out.pritnln("A number cannot be divided by zero);
+           }
         }
     }
 }
