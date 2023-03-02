@@ -22,6 +22,12 @@ public class Main {
                 System.out.println("Deduction result is : " + (firstNum - secondNum));
                 break;
             case 3 :
+                switch(secondNum){
+                    case 0 :
+                  System.out.println("A number cannot be divided by zero");
+                break;
+            default:
+                }
                 System.out.println("Division result is : " + (firstNum / secondNum));
                 break;
             case 4 :
